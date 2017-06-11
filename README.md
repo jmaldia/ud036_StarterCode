@@ -14,6 +14,12 @@ Source code for a Movie Trailer website. This program creates instances of a Mov
 
 
 
+## Install
+
+You need the entertainment_center.py to generate the website. You can open up this file and run it on [IDLE](https://docs.python.org/3/library/idle.html). Upon running, the code will generate an HTML file and run it on your browser. 
+
+
+
 ## License
 
 MIT License
