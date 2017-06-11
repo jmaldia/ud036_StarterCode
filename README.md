@@ -3,6 +3,7 @@
 Source code for a Movie Trailer website. This program creates instances of a Movie class by providing the movie title, poster art, and trailer. The instances are used to build a website that displays posters and titles of favorite movies. When you click on a movie poster or title, it plays a trailer of that movie on a Modal within the webpage. 
 
 
+
 ## Files included
 
 **media.py** - This is where the Movie class is defined. The Movie class helps in storing information about the movie objects that you create. 
@@ -10,6 +11,8 @@ Source code for a Movie Trailer website. This program creates instances of a Mov
 **fresh_tomatoes.py** - Contains the methods that helps build the website. It also contains the styles for our site.
 
 **entertainment_center.py** - This contains all the movie objects that we will be displaying on our website. It also calls on the fresh_tomatoes.py file in order for it to create our page. 
+
+
 
 ## License
 
