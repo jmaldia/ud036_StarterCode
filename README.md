@@ -6,14 +6,16 @@ Source code for a Movie Trailer website. This program creates instances of a Mov
 ## Files included
 
 **media.py** - This is where the Movie class is defined. The Movie class helps in storing information about the movie objects that you create. 
+
 **fresh_tomatoes.py** - Contains the methods that helps build the website. It also contains the styles for our site.
+
 **entertainment_center.py** - This contains all the movie objects that we will be displaying on our website. It also calls on the fresh_tomatoes.py file in order for it to create our page. 
 
 ## License
 
 MIT License
 
-Copyright (c) [2017] [Jon Maldia]
+Copyright (c) 2017 Jon Maldia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
